@@ -1,5 +1,6 @@
 # Why Pay to Play 
-##Author: Stan Usovicz, EsportScholar 
+**Author**: Stan Usovicz, EsportScholar 
+**Date**: February 6, 2025
 esportscholar.com
 
 ## About
